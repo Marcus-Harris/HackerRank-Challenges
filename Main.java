@@ -8,5 +8,8 @@ public class Main {
 
         JavaIfElse newIfElse = new JavaIfElse();
         newIfElse.ifElse();
+
+        JavaLoops newLoop = new JavaLoops();
+        newLoop.loops();
     }
 }
