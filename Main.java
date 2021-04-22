@@ -6,7 +6,7 @@ public class Main {
         Welcome welcome = new Welcome();
         welcome.welcomeToJava();
 
-        Java_If_Else newIfElse = new Java_If_Else();
+        JavaIfElse newIfElse = new JavaIfElse();
         newIfElse.ifElse();
     }
 }
