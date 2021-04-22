@@ -2,7 +2,7 @@ package com.tts;
 
 import java.util.Scanner;
 
-public class Java_If_Else {
+public class JavaIfElse {
     Scanner scanner = new Scanner(System.in);
 
     public void ifElse() {
@@ -22,6 +22,6 @@ public class Java_If_Else {
         } else {
             maybeWeird = "Weird";
         }
-        System.out.println(maybeWeird);
+        System.out.println(N + " is " + maybeWeird);
     }
 }
